@@ -1,2 +1,0 @@
-# facebot-c
-FaceBOT-Comments
